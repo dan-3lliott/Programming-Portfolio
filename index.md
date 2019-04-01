@@ -16,6 +16,8 @@ Use this handy application to keep track of calorie and dieting goals.  This pro
 
 This simple, console-based program determines whether the year is a leap year or not based off of user input.
 
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/Screen%20Shot%202019-04-01%20at%202.12.14%20PM.png?raw=true">
+
 ### Alarm Clock
 
 This program functions as a basic alarm clock for those who may be having a hard time waking up in the mornings or keeping appointments.
