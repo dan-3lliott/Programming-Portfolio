@@ -1,8 +1,8 @@
 ## Programming Portfolio
 
-Daniel Elliott
-A4CP2
-elliott.daniel.ballantyne@gmail.com
+Daniel Elliott <br>
+A4CP2 <br>
+[contact](elliott.daniel.ballantyne@gmail.com)
 
 # Individual Programming Project 2018-2019
 
@@ -31,6 +31,3 @@ This incredibly bloated approach to an array-based tic tac toe game allows users
 ### Phone Number Mneumonic Generator
 
 This program supplies all possible combinations of letters that could be used as a mneumonic for a phone number based off of user input for the phone number.
-
-[Link](url) and ![Image](src)
-```
