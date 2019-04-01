@@ -28,7 +28,8 @@ This program functions as a basic alarm clock for those who may be having a hard
 
 This program calculates the actual value range for a resistor based off of its expected value and tolerance level.
 
-<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/Screen%20Shot%202019-04-01%20at%202.16.17%20PM.png?raw=true>
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/Screen%20Shot%202019-04-01%20at%202.16.17%20PM.png?raw=true">
+
 ### Tic Tac Toe Game
 
 This incredibly bloated approach to an array-based tic tac toe game allows users to play in an intensely riveting match of the classic game "Tic Tac Toe".
