@@ -2,7 +2,7 @@
 
 Daniel Elliott <br>
 A4CP2 <br>
-[contact](elliott.daniel.ballantyne@gmail.com)
+<a href="mailto:me@example.com">elliott.daniel.ballantyne@gmail.com</a>
 
 # Individual Programming Project 2018-2019
 
