@@ -10,19 +10,19 @@ A4CP2 <br>
 
 Use this handy application to keep track of calorie and dieting goals.  This program allows the user to add meal and workout data for each day, then automatically compiles all the data into an easy-to-read graphical array of tables that allow for daily examination as well as monthly evaluation of various fitness-related goals.
 
-<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/MainWindowScreenshot.PNG">
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/MainWindowScreenshot.PNG?raw=true">
 
 The main window allows the user to view / update their daily goals and totals as well as monthly calorie totals / goals.
 
-<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddMealScreenshot.PNG">
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddMealScreenshot.PNG?raw=true">
 
 The user can add various meals throughout the day.
 
-<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddItemScreenshot.PNG">
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddItemScreenshot.PNG?raw=true">
 
 Each meal consists of various items added by the user.
 
-<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddWorkoutScreenshot.PNG">
+<img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddWorkoutScreenshot.PNG?raw=true">
 
 The user can also add workouts throughout the day.
 
