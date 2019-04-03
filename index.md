@@ -26,7 +26,7 @@ Each meal consists of various items added by the user.
 
 The user can also add workouts throughout the day.
 
-<a href = "https://github.com/dan-3lliott/FinalTracker">View on GitHub</a>
+<a href = "https://github.com/dan-3lliott/FitnessTracker">View on GitHub</a>
 
 # Other Programming Projects
 
