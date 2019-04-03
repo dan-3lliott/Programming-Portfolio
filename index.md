@@ -2,7 +2,7 @@
 
 Daniel Elliott <br>
 A4CP2 <br>
-<a href="mailto:me@example.com">elliott.daniel.ballantyne@gmail.com</a>
+<a href = "mailto:me@example.com">elliott.daniel.ballantyne@gmail.com</a>
 
 # Individual Programming Project 2018-2019
 
@@ -25,6 +25,8 @@ Each meal consists of various items added by the user.
 <img src = "https://github.com/dan-3lliott/Programming-Portfolio/blob/master/AddWorkoutScreenshot.PNG">
 
 The user can also add workouts throughout the day.
+
+<a href = "https://github.com/dan-3lliott/FinalTracker">View on GitHub</a>
 
 # Other Programming Projects
 
