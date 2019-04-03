@@ -6,7 +6,7 @@ A4CP2 <br>
 
 # Individual Programming Project 2018-2019
 
-## Fitness Tracker Application
+### Fitness Tracker Application
 
 Use this handy application to keep track of calorie and dieting goals.  This program allows the user to add meal and workout data for each day, then automatically compiles all the data into an easy-to-read graphical array of tables that allow for daily examination as well as monthly evaluation of various fitness-related goals.
 
